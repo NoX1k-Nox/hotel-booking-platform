@@ -6,18 +6,30 @@
 
 hotel-booking-platform:
 ─ auth-service
+
 ─ booking-service
+
 ─ hotel-service
+
 ─ eureka-server
+
 ─ gateway
+
 ─ common
 
+
 auth-service -  Сервис аутентификации и авторизации пользователей
+
 booking-service - Сервис бронирования номеров
+
 hotel-service - Сервис управления отелями и номерами
+
 eureka-server - Сервис регистрации микросервисов
+
 gateaway - API Gateway для маршрутизации запросов
+
 common - Общие DTO, утилиты и константы
+
 
 ## Технологии
 
